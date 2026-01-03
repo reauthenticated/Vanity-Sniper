@@ -1,0 +1,16 @@
+{
+    "_comments": {
+        "token": "Enter your Discord bot token here",
+        "channelId": "Enter your channel ID here",
+        "serverId": "Enter your server ID where you want to hold vanity",
+        "userToDm": "DM the user when vanity will snipe",
+        "password": "Token password",
+        "webhookUrl": "Webhook URL to send notifications"
+    },
+    "token": "",
+    "channelId": "",
+    "serverId": "",
+    "userToDm": "",
+    "password": "",
+    "webhookUrl": ""
+}
