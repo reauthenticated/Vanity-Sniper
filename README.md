@@ -1,0 +1,3 @@
+# VANITY SNIPER MFA BYPASS
+
+# ENJOY :🖕
